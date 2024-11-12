@@ -1,6 +1,6 @@
 --- 
 title: MINIBLINK
-date: 2024-11-07
+date: 2024-11-12
 categories: [Embedded Systems Programming, STM32]
 tags: [stm32, arm]
 toc: false
