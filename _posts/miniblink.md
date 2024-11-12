@@ -48,8 +48,7 @@ int main(void) {
 #include <libopencm3/stm32/gpio.h>
 #include <libopencm3/stm32/rcc.h>
 ```
-```
-```
+
 These two libraries are included which provide functions to control the GPIO (General-Purpose Input/Output) pins and RCC (Reset and Clock Control) on the microcontroller.
 
 
