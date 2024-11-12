@@ -90,5 +90,14 @@ The `gpio_clear` function turns on the LED while the `gpio_set` turns off the LE
 
 
 Below is an illustration of the miniblink program in action.
-{% include embed/video.html src='{/home/neutron/Videos/projects/miniblink.mp4}' %}
+
+{%
+  include embed/video.html
+  src='/home/neutr0n/Videos/projects/miniblink.mp4'
+  types='ogg|mov'
+  title='Miniblink Demo'
+  autoplay=true
+  loop=true
+  muted=true
+%}
 
