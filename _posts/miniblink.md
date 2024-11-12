@@ -6,11 +6,11 @@ tags: [stm32, arm]
 toc: false
 ---
 
-This is a project on how I flashed the STM32f103c8t6 and programmed the microcontroller to make the LED connected to PC13 to blink. It is a basic program that introduces beginners to the world of embedded system programming.
+This is a project on how I flashed the STM32f103c8t6 also known as the `blue pill` and programmed the microcontroller to make the LED connected to PC13 to blink using embedded C. It is a basic program that introduces beginners to the world of embedded system programming.
 
 The source code is as shown.
 
-```cpp
+```c
 #include <libopencm3/stm32/gpio.h>
 #include <libopencm3/stm32/rcc.h>
 
@@ -44,7 +44,7 @@ int main(void) {
 ```
 
 ## libraries
-```cpp
+```c
 #include <libopencm3/stm32/gpio.h>
 #include <libopencm3/stm32/rcc.h>
 ```
@@ -54,7 +54,7 @@ These two libraries are included which provide functions to control the GPIO (Ge
 
 ## GPIO setup configuration
 
-```cpp
+```c
 gpio_setup(void) {
   // enable the GPIOC clock
   rcc_periph_clock_enable(RCC_GPIOC);
@@ -70,7 +70,7 @@ This function is used to setup the GPIO.
 
 ## switching the LED on and off
 
-```cpp
+```c
 for (;;) {
     gpio_clear(GPIOC, GPIO13);
     for (int i = 0; i < 1500000; i++) {
