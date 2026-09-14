@@ -4,8 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Software Engineer with practical experience designing and developing backend systems, APIs, and enterprise applications across financial services and public-sector technology. Experienced in building multi-tenant revenue collection systems, contributing to merchant financial management solutions, and developing reliable payment-processing software through extensive testing.
+Hi there, thanks for stopping by! I'm a software engineer who enjoys understanding how systems work and building software that keeps them running reliably. I've had the opportunity to work on multi-tenant revenue collection systems, merchant financial management solutions, and payment-processing software where reliability and security matter.
 
-Proficient in Java, Spring Boot, Python, C/C++, MySQL, PostgreSQL, and GNU/Linux, with a strong foundation in software engineering, problem-solving, system security, and database-driven applications. I bring an engineering mindset focused on developing reliable, secure, and scalable technology solutions that address real-world business and operational needs.
+I primarily work with Java, Spring Boot, Python, C/C++, MySQL, PostgreSQL, and GNU/Linux. But beyond the technologies, I enjoy solving difficult problems, understanding systems from the ground up, and turning ideas into software that is reliable, secure, and scalable.
 
-In this space, I share projects, insights, and concepts related to software engineering and backend development.
+This is where I share the things I'm learning and building—from backend development and system design to programming experiments, projects, and lessons learned along the way. If you're here to learn, explore, or simply see what I'm working on, I hope you find something useful. Feel free to reach out!
