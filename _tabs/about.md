@@ -4,8 +4,8 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Welcome to my blog! I am an Electrical and Electronics Engineering student with a passion for embedded systems and programming. With a strong foundation in C/C++ and Python, I enjoy exploring the intersection of hardware and software to create innovative solutions.
+Software Engineer with practical experience designing and developing backend systems, APIs, and enterprise applications across financial services and public-sector technology. Experienced in building multi-tenant revenue collection systems, contributing to merchant financial management solutions, and developing reliable payment-processing software through extensive testing.
 
-In this space, I’ll share my projects, insights, and concepts related to embedded systems and software development. Whether you’re a beginner looking to learn or an experienced engineer seeking fresh ideas, I hope you find valuable content that sparks your creativity and deepens your understanding of these exciting fields.
+Proficient in Java, Spring Boot, Python, C/C++, MySQL, PostgreSQL, and GNU/Linux, with a strong foundation in software engineering, problem-solving, system security, and database-driven applications. I bring an engineering mindset focused on developing reliable, secure, and scalable technology solutions that address real-world business and operational needs.
 
-Join me on this journey as we delve into the world of technology, one project at a time!
+In this space, I share projects, insights, and concepts related to software engineering and backend development.
