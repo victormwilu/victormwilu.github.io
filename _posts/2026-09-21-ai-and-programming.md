@@ -22,7 +22,7 @@ The changes that AI has led to in the programming field are enormous and the pro
 
 ## Should you still learn programming?
 
-Over the past few years, we've all come across the question: *"If AI can write code, why should I bother learning?"* Why should anyone go through the troubles of learning how to program if AI is going to be doing most of the work?
+Over the past few years, we've all come across the question: *"If AI can write code, why should I bother learning?"*  Why should anyone go through the troubles of learning how to program if AI is going to be doing most of the work?
 
 Short answer: you should. 
 
